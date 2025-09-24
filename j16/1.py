@@ -1,0 +1,21 @@
+# import random as r
+from random import randint as r
+
+a = r(1, 10)
+b = r(1, 10)
+c = r(1, 10)
+d = r(1, 10)
+e = r(1, 10)
+f = r(1, 10)
+g = r(1, 10)
+h = r(1, 10)
+i = r(1, 10)
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
+print(g)
+print(h)
+print(i)
